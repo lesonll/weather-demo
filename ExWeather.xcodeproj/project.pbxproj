@@ -17,6 +17,7 @@
 		229620BC24DCEF4C008D0496 /* MyResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229620BB24DCEF4C008D0496 /* MyResponse.swift */; };
 		229620BF24DCF613008D0496 /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229620BE24DCF613008D0496 /* ViewController1.swift */; };
 		229620C124DCF8D2008D0496 /* MyCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 229620C024DCF8D2008D0496 /* MyCell.swift */; };
+		22FB31F924E286970008FA65 /* change.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22FB31F824E286970008FA65 /* change.swift */; };
 		851DE99FDD2EF3BBF50010EC /* Pods_ExWeather.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 23246ACE9FA2332B5C921C23 /* Pods_ExWeather.framework */; };
 /* End PBXBuildFile section */
 
@@ -33,6 +34,7 @@
 		229620BB24DCEF4C008D0496 /* MyResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyResponse.swift; sourceTree = "<group>"; };
 		229620BE24DCF613008D0496 /* ViewController1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
 		229620C024DCF8D2008D0496 /* MyCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCell.swift; sourceTree = "<group>"; };
+		22FB31F824E286970008FA65 /* change.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = change.swift; sourceTree = "<group>"; };
 		23246ACE9FA2332B5C921C23 /* Pods_ExWeather.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ExWeather.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6F82970C13004A955F35F52E /* Pods-ExWeather.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExWeather.debug.xcconfig"; path = "Target Support Files/Pods-ExWeather/Pods-ExWeather.debug.xcconfig"; sourceTree = "<group>"; };
 		DA3127688FE644C3EB67E89D /* Pods-ExWeather.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ExWeather.release.xcconfig"; path = "Target Support Files/Pods-ExWeather/Pods-ExWeather.release.xcconfig"; sourceTree = "<group>"; };
@@ -90,6 +92,7 @@
 			children = (
 				229620BE24DCF613008D0496 /* ViewController1.swift */,
 				229620C024DCF8D2008D0496 /* MyCell.swift */,
+				22FB31F824E286970008FA65 /* change.swift */,
 			);
 			path = VC1;
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 				227F7CD724D970720008ADDF /* AppDelegate.swift in Sources */,
 				227F7CD924D970720008ADDF /* SceneDelegate.swift in Sources */,
 				229620C124DCF8D2008D0496 /* MyCell.swift in Sources */,
+				22FB31F924E286970008FA65 /* change.swift in Sources */,
 				229620BC24DCEF4C008D0496 /* MyResponse.swift in Sources */,
 				227F7CE124D970720008ADDF /* ExWeather.xcdatamodeld in Sources */,
 			);
