@@ -22,7 +22,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var lbldesc: UILabel?
     @IBOutlet weak var lbldoC: UILabel?
     var params = [:] as [String: Any]
-    
+    //day la son2
+    //day
     static var manager: Alamofire.SessionManager = {
         let trust: [String: ServerTrustPolicy] = [
             "api.weatherstack.com": .disableEvaluation
