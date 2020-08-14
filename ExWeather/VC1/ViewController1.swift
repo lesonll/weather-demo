@@ -37,6 +37,8 @@ class ViewController1: UIViewController, UITableViewDelegate, UITableViewDataSou
         districts.append(District(name: "Bắc Kinh", value: ["query":"Shanghai"] ))
         districts.append(District(name: "Hài Phòng", value: ["query":"Shanghai"] ))
         districts.append(District(name: "Đà Nẵng", value: ["query":"Shanghai"] ))
+        districts.append(District(name: "Binh Dinh", value: ["query":"Shanghai"] ))
+        
         
         updistricts = districts
     }
