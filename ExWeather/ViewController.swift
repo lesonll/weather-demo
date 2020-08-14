@@ -22,6 +22,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var lbldesc: UILabel?
     @IBOutlet weak var lbldoC: UILabel?
     var params = [:] as [String: Any]
+    //Day la son3
     
     static var manager: Alamofire.SessionManager = {
         let trust: [String: ServerTrustPolicy] = [
