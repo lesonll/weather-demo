@@ -24,6 +24,8 @@ class ViewController: UIViewController {
     var params = [:] as [String: Any]
     //Day la son3
     
+    //day la son2
+    //day
     static var manager: Alamofire.SessionManager = {
         let trust: [String: ServerTrustPolicy] = [
             "api.weatherstack.com": .disableEvaluation
